@@ -1,6 +1,0 @@
-framework module DLYDIntegrateSDK {
-  umbrella header "DLYDIntegrateSDK.h"
-
-  export *
-  module * { export * }
-}
